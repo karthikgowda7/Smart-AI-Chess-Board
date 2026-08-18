@@ -3,7 +3,8 @@
 Final-year engineering project: A physical chess board with Hall-effect sensors,
 ESP32 microcontroller, and AI-powered move recommendations using Stockfish.
 
-HERE:
+DETAILS - 
+
 ## Project Status
 
 - [x] Task 1: Development environment setup
